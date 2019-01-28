@@ -1,0 +1,16 @@
+PODS:
+  - Transitions (0.1.0)
+
+DEPENDENCIES:
+  - Transitions (from `../`)
+
+EXTERNAL SOURCES:
+  Transitions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Transitions: ebcf95dec9d6320b29697f30a8deb42994069687
+
+PODFILE CHECKSUM: d4603c183e95c48066e498e0ae8220e0c620aea8
+
+COCOAPODS: 1.5.3
