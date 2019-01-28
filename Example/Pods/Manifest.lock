@@ -1,5 +1,5 @@
 PODS:
-  - Transitions (0.1.0)
+  - Transitions (0.2.0)
 
 DEPENDENCIES:
   - Transitions (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Transitions: ebcf95dec9d6320b29697f30a8deb42994069687
+  Transitions: 8b071738dad0aeb2b6cadd5501e5b75f58ce6b8d
 
 PODFILE CHECKSUM: d4603c183e95c48066e498e0ae8220e0c620aea8
 

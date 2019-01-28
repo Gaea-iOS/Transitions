@@ -10,7 +10,7 @@ import UIKit
 public class DismissAnimator: NSObject {
     public var transitionDuration: TimeInterval = 0.3
     public var transitionStyle: TransitionStyle = .scale(initial: 0.5)
-    public var options: UIViewAnimationOptions = .curveEaseInOut
+    public var options: UIView.AnimationOptions = .curveEaseInOut
 }
 
 extension DismissAnimator: UIViewControllerAnimatedTransitioning {
