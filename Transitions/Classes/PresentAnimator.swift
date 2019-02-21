@@ -14,8 +14,8 @@ public class PresentAnimator: NSObject {
 
     public var finalFrame: (_ containerViewFrame: CGRect) -> CGRect = { $0 }
     public var finalBackgroundColor: UIColor?
-    public var options: UIView.AnimationOptions = .curveEaseInOut
-    public var damping: CGFloat = 0.5
+    public var options: UIView.AnimationOptions = .curveLinear
+    public var damping: CGFloat = 0.0
 }
 
 extension PresentAnimator: UIViewControllerAnimatedTransitioning {
